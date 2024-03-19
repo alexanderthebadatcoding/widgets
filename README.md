@@ -1,7 +1,7 @@
-# widgets
+# Widgets
 ![image](https://github.com/alexanderthebadatcoding/widgets/assets/127344545/9a5a2403-7285-4830-888e-e803f5b743ad)
 
-Scriptable Widgets
+## Scriptable Widgets
 
 NCAA Images, shows Random NCAA Basketball events with the Logos. 
 
