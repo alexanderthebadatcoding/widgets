@@ -2,6 +2,7 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: red; icon-glyph: trophy;
 const apiUrl = "http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard";
+// can change to to womens NCAA by changing the link to Womens-college-basketball above
 let gameTime, gameUrl, widget;
 let teamEvent = null;
 
